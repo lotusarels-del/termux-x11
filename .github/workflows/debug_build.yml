@@ -8,12 +8,6 @@ on:
     paths-ignore:
       - '**.md'
       - 'img/**'
-  pull_request:
-    branches:
-      - master
-    paths-ignore:
-      - '**.md'
-      - 'img/**'
 
 permissions:
   contents: write
